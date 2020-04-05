@@ -14,3 +14,5 @@ Make sure to have pyinstaller and updated.
 This will create an app in the 'dist' folder that can be opened. Windows might say this app is a virus but you can just allow it to run.
 
 
+## NOTE  
+Make sure to make bot account (second account) a moderator. As twitch blocks a user to put in the same message twice but if the message is from a moderator, it does not matter.
