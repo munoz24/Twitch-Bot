@@ -10,7 +10,7 @@ What to Edit:
 
 How to compile (Windows):  
 Make sure to have pyinstaller and updated.  
-  Command: pyinstaller --onefile app.py --hidden-import=requests --noconsole --name TwitchBot  
+  Command: pyinstaller --onefile app.py --noconsole --name TwitchBot  
 This will create an app in the 'dist' folder that can be opened. Windows might say this app is a virus but you can just allow it to run.
 
 
